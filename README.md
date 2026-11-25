@@ -1,4 +1,4 @@
-# Rengs Operations NOC — Parte 1
+# Rengs Operations 
 
 Laboratório prático de monitoramento de infraestrutura, simulando um ambiente de operações de TI da Rengs Operations.
 
@@ -89,7 +89,7 @@ Durante o desenvolvimento deste laboratório, pratiquei a instalação e configu
 
 Também trabalhei na identificação e resolução de problemas de configuração e comunicação entre os equipamentos.
 
-## Próximas etapas
 
-Esta é a primeira parte do projeto Rengs Operations NOC. Na próxima etapa, o laboratório será ampliado com testes de falhas, troubleshooting e novas práticas relacionadas à rotina de um NOC.
+
+
 
